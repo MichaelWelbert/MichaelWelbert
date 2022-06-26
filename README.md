@@ -1,8 +1,8 @@
 ## Oiii eu sou o Michael Welbert, desenvolvedor mobile android!
 <div align="center">
   <a href="https://github.com/michaelwelbert">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelwelbert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwelbert&count_private=true&layout=compact&langs_count=1&theme=dracula&hide=javascript,html,dart,swift"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=michaelwelbert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwelbert&count_private=true&layout=compact&langs_count=1&theme=dracula&hide=javascript,html,dart,swift"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
