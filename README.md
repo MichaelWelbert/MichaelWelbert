@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-   <img align="right" alt="Rafa-pic" style="border-radius:50px;" src="https://github.com/MichaelWelbert/MichaelWelbert/blob/main/work.gif" width="140" height="120" />
+   <img align="right" alt="Rafa-pic"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/68998044/175818206-7c1af18c-d099-4eb3-b869-817ce3fbc75f.png" width="190" height="140" />
 
   ##
  
