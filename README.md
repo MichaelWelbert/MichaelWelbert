@@ -8,12 +8,9 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68998044/175815994-99b0e2cc-29f1-4186-a15f-3ddd02b47c1e.jpeg?width=676&height=676">
-  
- 
+   <img align="right" alt="Rafa-pic" style="border-radius:50px;" src="https://github.com/MichaelWelbert/MichaelWelbert/blob/main/work.gif" width="140" height="120" />
 
   ##
  
@@ -25,3 +22,7 @@
   ![Snake animation](https://github.com/michaelwelbert/michaelwelbert/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
+
